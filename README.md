@@ -1,5 +1,5 @@
 # NetworkTechnologies
-This repository contains code for a Java project which was part of the Network Technologies for a H.Dip in Software Development at GMIT.
+This repository contains code for a Java project which was part of the Network Technologies module for a H.Dip in Software Development at GMIT.
 
 ## Project Overview
 The main aim of this project was to design and write a simple network-based chat application in Java using the Java Socket API. In doing this the application had to be able to carry out a certain set of functions while also meeting certain requirements. They are as follows:
